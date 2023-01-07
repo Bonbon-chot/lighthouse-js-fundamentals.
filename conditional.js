@@ -38,7 +38,7 @@ if (!raining) {
 age = >= 13 && <= 18 secndary school
 else lighthouse labs */
 
-const whichSchool = function () {
+const whichSchool = function() {
 if (age <= 12) {
   whichSchool = "elementary school";
 } else if (age > 12 && age < 19) {
